@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://GH_TOKEN@github.com/mandalarpan99/realtripblog.git"
+    "deploy": "gh-pages -d dist -r https://${GH_TOKEN}@github.com/mandalarpan99/realtripblog.git"
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
