@@ -1,5 +1,6 @@
 {
   "name": "realtrip",
+  "homepage": "https://mandalarpan99.github.io/realtripblog/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +13,7 @@
   "dependencies": {
     "bootstrap": "^5.3.8",
     "framer-motion": "^12.23.24",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.546.0",
     "react": "^19.1.1",
     "react-bootstrap": "^2.10.10",
